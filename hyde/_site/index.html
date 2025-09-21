@@ -570,7 +570,7 @@
                     <span class="block text-4xl md:text-5xl mb-4 sm:mb-0">Benjamin H Boruff</span>
                 </h1>
                 <div class="mx-auto mt-8 sm:mt-4 text-gray-200 md:mt-8 md:max-w-2xl md:text-center">
-                    <section aria-label="About Ben">
+                    <section id="about" aria-label="About Ben">
                         <p class="lg:text-lg">
                             Hi! I'm Ben, a programmer and unix system administrator.
                         </p>
@@ -581,13 +581,44 @@
                             About Me
                         </h2>
                         <p class="indent-8 mt-4 mb-4 text-left">
-                            I've been "playing" with computers since my first computer, a C64, back in 1983. My first
-                            language was BASIC. It was the language, and rpl, built-in to the C64's ROM. To do much of
-                            anything you had to learn a little BASIC.
+                            I've been "playing" with computers since my great-grandmother bought me a C64 for
+                            my birthday back in 1983. My first
+                            language was <code> Commodore BASIC V2</code>; it was built-in to the C64's ROM. To do much of
+                            anything you had to learn a little BASIC, and type the commands in the <code>repl</code>.
                         </p>
 
                         <p class="indent-8 mt-4 mb-4 text-left">
                             I loved it.
+                        </p>
+
+                        <p class="indent-8 mt-4 mb-4 text-left">
+                            Pascal was my next language. It was probably 1985 or '86 in "Computer Math"
+                            class in high school when I learned a little Pascal on the Apple II. It was
+                            probably <a href="https://en.wikipedia.org/wiki/UCSD_Pascal">UCSD Pascal</a>. 
+                        </p>
+
+                        <p class="indent-8 mt-4 mb-4 text-left">
+                            I live in San Diego, so that's just another nice thing about living here in
+                            addition to the weather!
+                        </p>
+
+                        <p class="indent-8 mt-4 mb-4 text-left">
+                            Then in my Computer Science classes at IU I learned <code>MIT Scheme</code>,
+                            <code>ANSI C</code>, 68k <code>assembly</code>, and a little <code>C++</code>.
+                        </p>
+
+                        <p class="indent-8 mt-4 mb-4 text-left">
+                            I'm not sorry to say that I'm not a fan of <code>C++</code>.
+                        </p>
+
+                        <p class="indent-8 mt-4 mb-4 text-left">
+                            In the work-a-day world of web development I have used <code>Python(Flask),
+                            PHP(Laravel)</code>, and <code>Ruby(Rails)</code>.
+                        </p>
+
+                        <p class="indent-8 mt-4 mb-4 text-left">
+                            Lately, I have been revisiting <code>Pascal</code>, and 
+                            language compiling -- lexing, parsing, etc.
                         </p>
                     </section>
 
@@ -595,22 +626,22 @@
                         <span class="sr-only">Resources for getting started</span>
                         <ul class="flex flex-wrap justify-center list-none" style="padding: 0;">
                             <li>
-                                <a href="https://hydephp.com/docs/1.x"
+                                <a href="#top"
                                     class="uppercase font-bold text-sm flex text-center m-2 mx-3">
-                                    Documentation
+                                    Home
                                 </a>
                             </li>
                             <li>
-                                <a href="https://hydephp.com/docs/1.x/getting-started"
+                                <a href="#about"
                                     class="uppercase font-bold text-sm flex text-center m-2 mx-3">
-                                    Getting Started
+                                    About
                                 </a>
                             </li>
                             <li>
 
-                                <a href="https://github.com/hydephp/hyde"
+                                <a href="https://github.com/benjaminboruff"
                                     class="uppercase font-bold text-sm flex text-center m-2 mx-3">
-                                    GitHub Source Code
+                                    GitHub
                                 </a>
                             </li>
                         </ul>
