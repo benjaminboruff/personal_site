@@ -623,7 +623,7 @@
                             <a href="https://www.commanderx16.com/" >Commander x16</a>. So, yeah, retro-computing ...
                         </p>
                         <p class="indent-8 mt-4 mb-4 text-left">
-                            I am also learning <code>Nim, Odin, and Gleam</code> for fun and future projects!
+                            I am also learning <code>Nim, Odin, D, and Gleam</code> for fun and future projects!
                         </p>
                     </section>
 
